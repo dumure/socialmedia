@@ -1,0 +1,124 @@
+.container
+{
+    display: flex;
+}
+
+.logo:first-child
+{
+    width: 100px;
+    height: 100px;
+    background-image: url(SocialMediaIcons.png);
+    background-position: 0px 0px;
+    border-width: 10px;
+    border-color: black;
+}
+
+.logo:first-child:hover
+{
+    width: 100px;
+    height: 100px;
+    background-image: url(SocialMediaIcons.png);
+    background-position: 0px 118px;
+    border-width: 10px;
+    border-color: black;
+}
+
+.logo:nth-child(2)
+{
+    width: 100px;
+    height: 100px;
+    background-image: url(SocialMediaIcons.png);
+    background-position: -91px 0px;
+    border-width: 10px;
+    border-color: black;
+}
+
+.logo:nth-child(2):hover
+{
+    width: 100px;
+    height: 100px;
+    background-image: url(SocialMediaIcons.png);
+    background-position: -91px 118px;
+    border-width: 10px;
+    border-color: black;
+}
+
+.logo:nth-child(3)
+{
+    width: 100px;
+    height: 100px;
+    background-image: url(SocialMediaIcons.png);
+    background-position: -182px 0px;
+    border-width: 10px;
+    border-color: black;
+}
+
+.logo:nth-child(3):hover
+{
+    width: 100px;
+    height: 100px;
+    background-image: url(SocialMediaIcons.png);
+    background-position: -182px 118px;
+    border-width: 10px;
+    border-color: black;
+}
+
+.logo:nth-child(4)
+{
+    width: 100px;
+    height: 100px;
+    background-image: url(SocialMediaIcons.png);
+    background-position: -273px 0px;
+    border-width: 10px;
+    border-color: black;
+}
+
+.logo:nth-child(4):hover
+{
+    width: 100px;
+    height: 100px;
+    background-image: url(SocialMediaIcons.png);
+    background-position: -273px 118px;
+    border-width: 10px;
+    border-color: black;
+}
+
+.logo:nth-child(5)
+{
+    width: 100px;
+    height: 100px;
+    background-image: url(SocialMediaIcons.png);
+    background-position: -364px 0px;
+    border-width: 10px;
+    border-color: black;
+}
+
+.logo:nth-child(5):hover
+{
+    width: 100px;
+    height: 100px;
+    background-image: url(SocialMediaIcons.png);
+    background-position: -364px 118px;
+    border-width: 10px;
+    border-color: black;
+}
+
+.logo:nth-child(6)
+{
+    width: 100px;
+    height: 100px;
+    background-image: url(SocialMediaIcons.png);
+    background-position: -455px 0px;
+    border-width: 10px;
+    border-color: black;
+}
+
+.logo:nth-child(6):hover
+{
+    width: 100px;
+    height: 100px;
+    background-image: url(SocialMediaIcons.png);
+    background-position: -455px 118px;
+    border-width: 10px;
+    border-color: black;
+}
